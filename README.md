@@ -63,8 +63,8 @@ Spring AOP is used to handle cross-cutting concerns such as:
 ### Steps
 
 ```bash
-git clone https://github.com/your-username/TodoManagementSystem.git
-cd TodoManagementSystem
+git clone https://github.com/Ketan1819/Todo-App.git
+cd TodoApp
 mvn spring-boot:run
 
 
